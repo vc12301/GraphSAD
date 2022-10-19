@@ -1,0 +1,6 @@
+kpi/
+yahoo/
+UCR_Anomaly_FullData/
+__pycache__
+/checkpoints
+.vscode/
